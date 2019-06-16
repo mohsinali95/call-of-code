@@ -1,0 +1,32 @@
+.bglobby-image{
+   
+    /* background :url("../../images/lobbybg.jpg") no-repeat fixed center;
+    display: block; */
+
+     /* The image used */
+     background :url("../../images/valiant_bgd_sunset.jpg") no-repeat fixed center;
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    /* background :url("../img/background.jpg") no-repeat fixed center; */
+  }
+
+  .bg-ready-image{
+    background-color: 	#FAFAFA;
+    /* background-color:#cad4dc; */
+    
+    color:black;
+    border-radius: 5px;
+  }
+  
+  .bg-image{
+   
+    /* background :url("../img/loginbg.jpg") no-repeat fixed center; */
+    /* display: block; */
+    /* background :url("../img/background.jpg") no-repeat fixed center; */
+  }

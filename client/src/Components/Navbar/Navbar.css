@@ -1,0 +1,20 @@
+.hover_nav {
+  background-color: rgba(29, 29, 29, 0.5);
+}
+.hover_nav:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.hover_icon {
+  background: transparent;
+  color: #f1f1f1;
+}
+.hover_icon p {
+  visibility: hidden;
+}
+.hover_icon:hover span {
+  color: #000000;
+  background-color: #f1f1f1;
+}
+.hover_icon:hover p {
+  visibility: visible;
+}

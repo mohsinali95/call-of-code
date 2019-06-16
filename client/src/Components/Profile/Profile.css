@@ -1,0 +1,30 @@
+body {
+  overflow: hidden;
+}
+.img-full-profile {
+  /* The image used */
+  background-image: url(../../images/valiant_bgd_fire.jpg);
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hover_pointer {
+  cursor: pointer;
+}
+.font_size_24 {
+  font-size: 24px;
+}
+.font_size_18 {
+  font-size: 18px;
+}
+.font_size_48 {
+  font-size: 48px;
+}
+.scroll_auto {
+  overflow: auto;
+}

@@ -1,0 +1,47 @@
+body {
+  overflow: hidden;
+}
+.img-full-competition {
+  /* The image used */
+  background-image: url(../../images/valiant_bgd_map.jpg);
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hover_pointer {
+  cursor: pointer;
+}
+.font_size_24 {
+  font-size: 24px;
+}
+.font_size_18 {
+  font-size: 18px;
+}
+.font_size_48 {
+  font-size: 48px;
+}
+.scroll_auto {
+  overflow: auto;
+}
+.hover_exit {
+  background-color: transparent;
+}
+.hover_exit:hover {
+  background-color: brown;
+}
+.bgd_image_editor {
+  background-image: url(../../images//comp_editor.jpg);
+}
+.run_color {
+  background-color: #d7d4c1;
+  border: 2px solid #484b38;
+}
+.submit_color {
+  background-color: #484b38;
+  border: 2px solid #d7d4c1;
+}

@@ -1,0 +1,32 @@
+/* .img-full-login {
+  background-image: url(../../images/valiant_bgd_france.jpg);
+
+  height: 100vh;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login_div_width {
+  height: 100vh;
+} */
+
+
+.body{
+  overflow:visible;
+}
+.img-full-login {
+  /* The image used */
+  background-image: url(../../images/login_back.jpg);
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login_div_width {
+  height: 100vh;
+}
